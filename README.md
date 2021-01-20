@@ -119,7 +119,7 @@ Get semua data
 ## Result With Query
 Get semua data
 - Method : Get
-- Diakses dengan http://localhost:8000/api/Jaghost
+- Diakses dengan http://localhost:8000/api/Jaghost?lastname=rahman
 - Response request : 
 ```json
 {
