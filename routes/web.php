@@ -16,4 +16,4 @@
 $router->get('/', function () use ($router) {
     return $router->app->version();
 });
-$router->get('Jaghost/{id}', 'JaghostController@index');
+$router->get('api/{id}', 'JaghostController@index');
